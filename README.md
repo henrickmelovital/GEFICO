@@ -23,6 +23,3 @@ Para testar, basta rodar os scripts sql (gefico`_a3 e test_query, nessa ordem), 
 
 ![Tela de Histórico](/imagens/tela-histórico.png 'Tela de Histórico')
 
-Nota do nosso projeto: 38/40 pontos!
-
-Esse repositório também tem o meu progresso dos estudos em Java durante o semestre.
